@@ -10,3 +10,5 @@ spring:
     password: root
   jackson:
     time-zone: GMT+8
+mybatis:
+  mapper-locations: static/mapping/*.xml
